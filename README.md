@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my first git repositary.
+This is my first git repositary.
+Author - Hatim Patwa
